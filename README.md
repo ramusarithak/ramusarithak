@@ -1,3 +1,10 @@
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=Twitter&logoColor=blue)]
+[![hashnode](https://img.shields.io/badge/hashnode-000000?style=for-the-badge&logo=HashNode&logoColor=blue)](https://hashnode.com/@ramuStar)]
+	
+
+ 
+  
 - 👋 Hi, I’m @ramusarithak
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
