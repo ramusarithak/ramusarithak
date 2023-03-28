@@ -1,7 +1,7 @@
 
 ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramusarithak&label=Profile%20views&color=0e75b6&style=flat" alt="ramusarithak" /> </p>
 
-### Hi there 👋, my name is ramu 
+### Hi there 👋, my name is Ramu 
 ####  I'm Ramu, A passionate FullStack developer from India
 ![ I'm Ramu, A passionate FullStack developer from India](https://i.postimg.cc/3rqCRJPM/Group-2.png)
 
@@ -11,7 +11,7 @@ On the web I just love beautiful things, they must look amazing, be blazing fast
 
 
 
-Skills: VUE JS  / JS / HTML / CSS/ NODE JS / NEST JS / 
+Skills: VUE JS / Angular / JS / HTML / CSS/ NODE JS / NEST JS / Express js / Nuxt js / Firebase / Supabase
 
 - 🔭 I’m currently working on project  
 - 🌱 I’m currently learning react,ui/ux 
