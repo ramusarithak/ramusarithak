@@ -2,7 +2,7 @@
 ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramusarithak&label=Profile%20views&color=0e75b6&style=flat" alt="ramusarithak" /> </p>
 
 ### Hi there 👋, my name is Ramu 
-####  I'm Ramu, A passionate FullStack developer from India
+####  I'm Ramu, A passionate FullStack developer 
 ![ I'm Ramu, A passionate FullStack developer from India](https://i.postimg.cc/3rqCRJPM/Group-2.png)
 
  I'm Ramu, I am a FullStack Developer. I love to share my knowledge, create posts to what I learn new stuff, and tweet 
